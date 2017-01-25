@@ -6,7 +6,7 @@ I'm a Developer Advocate for the Open Web platform at Google.  I started working
 
 I joined Google in 2010, and am a member of the developer relations team working on web stuff.  I spend about half my time doing developer advocacy, and half on standards work - I co-chair the [Web Incubation Community Group](https://wicg.io/), sit on the [W3C Advisory Board](https://www.w3.org/wiki/AB), and just generally try to make the web great.  I'm also a longtime fan of music, and to that end spent some time editing the [Web Audio API](https://webaudio.github.io/web-audio-api/) specification (and both initiated and continue to edit the [Web MIDI API](https://webaudio.github.io/web-midi-api/) specification.)  You can check out audio demos I've written in the past at [Web Audio Demos](https://webaudiodemos.appspot.com/).
 
-![headshot](https://github.com/cwilso/ama/raw/master/headshot.png "hi there!")
+![headshot](https://github.com/cwilso/ama/raw/master/headshot.jpg "hi there!")
 
 In my free time, I love hang out and do stuff with my wife and two young daughters, scuba dive (in the tropics, but also in the cool waters of Puget Sound), take pictures, hike, cook and make cocktails.
 
